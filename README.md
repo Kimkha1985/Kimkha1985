@@ -10,6 +10,46 @@
 
 ---
 
+# 🌍 Trái Đất 3D
+
+<p align="center">
+<img src="https://i.imgur.com/8I349oG.gif" width="420">
+</p>
+
+---
+
+# ⏰ Thời Gian
+
+<p align="center">
+
+<img src="https://readme-time.vercel.app/api/timezone/Asia/Ho_Chi_Minh?fontSize=35&theme=dark&label=🇻🇳 Vietnam Time"/>
+
+<br>
+
+<img src="https://readme-time.vercel.app/api/timezone/America/New_York?label=🇺🇸 New York"/>
+<img src="https://readme-time.vercel.app/api/timezone/Europe/London?label=🇬🇧 London"/>
+<img src="https://readme-time.vercel.app/api/timezone/Asia/Tokyo?label=🇯🇵 Tokyo"/>
+
+</p>
+
+---
+
+# 📅 Lịch Hôm Nay
+
+<p align="center">
+<img src="https://api.daily.dev/devcards/v2/2024-calendar.png" width="420"/>
+</p>
+
+---
+
+# 🌤 Thời Tiết Việt Nam
+
+<p align="center">
+<img src="https://wttr.in/HoChiMinhCity_0pq_lang=vi.png">
+</p>
+
+---
+
 <div align="center">
 
 <h2 style="color:#FFD700;">🌟 Xin Chào</h2>
@@ -52,9 +92,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kimkha1985&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -62,9 +100,7 @@
 # 🏆 GitHub Trophy
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Kimkha1985&theme=tokyonight&row=1&column=6"/>
-
 </p>
 
 ---
@@ -72,9 +108,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
@@ -82,9 +116,7 @@
 # 👀 Visitor Counter
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Kimkha1985&label=Visitors&color=blueviolet&style=for-the-badge"/>
-
 </p>
 
 ---
