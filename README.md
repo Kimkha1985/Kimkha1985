@@ -39,7 +39,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="center"> 🏆
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimkha1985&show_icons=true&theme=tokyonight"/>
 
@@ -56,18 +56,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kimkha1985&theme=tokyonight"/>
 
 </p>
-
----
-
-<div align="center">
-
-🏆 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kimkha1985&show_icons=true&theme=tokyonight"/>
-
-</div>
-
-
 
 ---
 
