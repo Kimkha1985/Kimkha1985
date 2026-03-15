@@ -59,9 +59,13 @@
 
 ---
 
- <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kimkha1985&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+ <div align="center">
+
+## 🏆 GitHub Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kimkha1985&theme=radical&no-frame=true&margin-w=10"/>
+
+</div>
 
 ---
 
